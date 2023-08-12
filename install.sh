@@ -32,13 +32,12 @@ function ctbanner() {
 function clonerepo() {
     ctbanner
     echo Cloning sources... | lolcat
-    git clone https://github.com/Genplat/awesome-termux
+    git clone https://github.com/Genplat/custoMUX
 }
 
 function cpfiles() {
     ctbanner
     echo Copying files... | lolcat
-    mv awesome-termux custoMUX &> /dev/null
     cd custoMUX &> /dev/null
     rm ~/../usr/bin/login &> /dev/null
     chmod +x * &> /dev/null
