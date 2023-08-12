@@ -28,7 +28,7 @@
 
 ## Screenshots:
 - Menu:
-![Menú screenshoot](https://i.ibb.co/2jbLR5H/Screenshot-20230802-153820-Termux.png)
+![Menú screenshoot](https://i.ibb.co/B43Qf93/Screenshot-20230812-164229-Termux.png)
 
 - Shell:
 ![Shell screenshoot](https://i.ibb.co/B43Qf93/Screenshot-20230812-164229-Termux.png)
