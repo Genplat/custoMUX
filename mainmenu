@@ -1,0 +1,16 @@
+clear
+bannermenu
+echo "1. Shell Termux"
+echo "2. Shell NetHunter"
+echo "3. Start NetHunter Kex"
+echo "4. AndroidSU"
+echo "5. Logout"
+echo " ### MAGISK MODE: THIS OPTIONS HAVE CODE FROM ANOTHER MODULES ###"
+echo "6. Disable DRM protection" 
+echo "7. Enable DRM protection"
+echo "8. Enable battery saver"
+echo "9. Disable battery saver"
+echo "10. Manage bootloop protection"
+echo
+echo
+python3 /data/data/com.termux/files/home/custoMUX/mainmenu.py
