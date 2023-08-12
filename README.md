@@ -1,2 +1,9 @@
-# custoMUX
-Customize 100% your Android, get the most out of your rooted phone with termux.
+# awesome-termux
+
+## TESTING: WAIT AND **NO** USE THIS NOW
+
+Personalize your termux bla bla bla (Actualizaré esto luego XD)
+
+```sh
+pkg i wget && wget https://raw.githubusercontent.com/Genplat/awesome-termux/main/install.sh && bash install.sh
+```
