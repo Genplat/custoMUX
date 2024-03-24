@@ -31,7 +31,7 @@ def func():
 	    os.system("su -c magisk --install-module /data/data/com.termux/files/home/custoMUX/zips/EnableFlagSecure.zip")
 	    os.system("mainmenu")
 	elif opt == 8:
-	    os.system("clear)
+	    os.system("clear")
 	    os.system("banner")
 	    os.system("su -c magisk --install-module /data/data/com.termux/files/home/custoMUX/zips/battery.zip")
 	    os.system("mainmenu")
